@@ -49,7 +49,7 @@ streamit run main.py
 ## **Using the Lecture Video Doubt Clarification System**
 <p></p>
 
-### 1. Upload your video(s) from your local system using the `Upload Local Video(s)` option on the Streamit page
+### 1. Upload video(s) from your local system using the `Upload Local Video(s)` option on the Streamit page
 
 ![upload](./images/upload.png)
 
