@@ -16,7 +16,7 @@ Installation
 
 ### 1. Clone the repository in the same directory as your Azure ML notebook/script
 ```sh
-git clone https://github.com/anaghapatill/Azure-ML-Metrics.git
+git clone https://github.com/anaghapatill/LVDCS.git
 ```
 
 ### 2. Navigate to the *azure_kpi_metrics* folder
