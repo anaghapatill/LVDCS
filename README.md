@@ -1,6 +1,6 @@
 # LVDCS: Minimising the Doubts in Distance Learning
 
-This repository contains the source code for our Capstone Project implemented in our final year of engineering. LVDCS stands for Lecture Video Doubt Clarification System wherein users can get  answers for any doubts they have while watching lecture videos immediately. Below depicts the workflow of the entire process.
+This repository contains the source code for our Capstone Project implemented in our final year of engineering. LVDCS stands for Lecture Video Doubt Clarification System wherein users can get answers immediately for any doubts they have while watching lecture videos. Below depicts the workflow of the entire process.
 
 ![workflow](./images/final_pipeline.png)
 
