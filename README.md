@@ -14,14 +14,14 @@ Table of Contents
 Installation
 ===
 
-### 1. Clone the repository in the same directory as your Azure ML notebook/script
+### 1. Clone the repository
 ```sh
 git clone https://github.com/anaghapatill/LVDCS.git
 ```
 
-### 2. Navigate to the *azure_kpi_metrics* folder
+### 2. Navigate to the *LVDCS-main* folder
 ```sh
-cd azure_kpi_metrics
+cd LVDCS-main
 ```
 
 ### 2. Install the required Python libraries
