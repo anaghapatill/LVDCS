@@ -1,0 +1,16 @@
+streamlit
+transformers
+sentence_transformers
+regex
+assemblyai
+youtube_transcript_api
+torch
+langchain.text_splitter
+langchain.embeddings.huggingface
+langchain.vectorstores
+langchain.chains.question_answering
+langchain.llms
+fpdf
+PyPDF2
+os
+dotenv
