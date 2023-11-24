@@ -24,7 +24,7 @@ git clone https://github.com/anaghapatill/LVDCS.git
 cd LVDCS-main
 ```
 
-### 2. Install the required Python libraries
+### 3. Install the required Python libraries
 ```sh 
 pip install -r requirements.txt
 ```
