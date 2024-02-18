@@ -42,7 +42,7 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = "<HuggingFace API Token>"
 ### 2. Run the `main.py` file
 
 ``` python
-streamit run main.py
+streamlit run main.py
 ```
 <br />
 
